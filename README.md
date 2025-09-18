@@ -1,4 +1,4 @@
-# Jueguito
+# Driftbot
 
 Este proyecto es un juego web desarrollado con React y Vite.
 
@@ -36,6 +36,8 @@ Este proyecto es un juego web desarrollado con React y Vite.
 - Usa las flechas del teclado para mover al jugador.
 - Esquiva enemigos y recoge power-ups para mejorar tu puntuación.
 - El juego termina cuando el jugador es alcanzado por un enemigo.
+
+![Gameplay](/public/gameplay.gif)
 
 ## Licencia
 Este proyecto es de uso personal y educativo.
